@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  
+  <h2> horr1ble171 / Fullstack Developer</h2>
 
-<!--
-**horr1ble171/horr1ble171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,nextjs,tailwind,react,nodejs,express,redis,vscode,pycharm,webstorm&perline=8" />
+  </a>
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_ЛОГИН&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  
+  <div align="left">
+    <h3>🛠 Мои навыки:</h3>
+    <ul>
+      <li><b>Frontend:</b> Next.js 14, React, TailwindCSS, Zustand, React Query, Framer Motion</li>
+      <li><b>Backend:</b> Node.js, Express, Python (Aiogram, Telegram API), Redis, BullMQ</li>
+      <li><b>Tools:</b> Lucide React, VS Code, PyCharm, WebStorm</li>
+      <li><b>Data:</b> Работа с базами данных и обработка аудио</li>
+    </ul>
+  </div>
+</div>

@@ -25,11 +25,3 @@
 
 <br/>
 
----
-
-### 🛠 Мои навыки:
-
-*   **Frontend:** `Next.js 14`, `React`, `TailwindCSS`, `Zustand`, `React Query`, `Framer Motion`
-*   **Backend:** `Node.js`, `Express`, `Python` (Aiogram, Telegram API), `Redis`, `BullMQ`
-*   **Tools:** `Lucide React`, `VS Code`, `PyCharm`, `WebStorm`
-*   **Data:** Работа с базами данных и обработка аудио

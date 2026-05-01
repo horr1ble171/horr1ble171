@@ -10,7 +10,7 @@
   <br/><br/>
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=horr1ble171&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=horr1ble171&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 
   <br/><br/>
 

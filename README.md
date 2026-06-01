@@ -15,8 +15,6 @@
   
   <br/><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=horr1ble171&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
 </div>
 
 <br/>

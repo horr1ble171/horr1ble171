@@ -7,11 +7,11 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=horr1ble171&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=horr1ble171&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Top Langs" />
   
   <br/><br/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=horr1ble171&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=horr1ble171&show_icons=true&theme=tokyonight&locale=ru&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
   
   <br/><br/>
   
